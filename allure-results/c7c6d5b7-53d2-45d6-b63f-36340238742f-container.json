@@ -1,0 +1,1 @@
+{"uuid":"c7c6d5b7-53d2-45d6-b63f-36340238742f","name":"LCWaikikiAutomation","children":["60a2e8a7-a78f-4934-b316-8942da805a0f"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736938547491,"stop":1736938560364}],"afters":[],"links":[],"start":1736938547457,"stop":1736938578085}

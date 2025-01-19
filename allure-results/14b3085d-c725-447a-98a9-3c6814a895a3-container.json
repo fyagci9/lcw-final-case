@@ -1,0 +1,1 @@
+{"uuid":"14b3085d-c725-447a-98a9-3c6814a895a3","name":"com.lcwaikiki.automation.tests.CategoryPageTest","children":["22747927-77ce-4602-a8e0-6cf901cf792e"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1737112111685,"stop":1737112134027}],"afters":[],"start":1737112111606,"stop":1737112185134}
